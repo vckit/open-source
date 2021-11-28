@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbFinanceAppModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="dbFinanceAppEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="dbFinanceAppModel.Departments" />
+    <EntitySet Name="Employe" EntityType="dbFinanceAppModel.Employe" />
+    <EntitySet Name="Group" EntityType="dbFinanceAppModel.Group" />
+    <EntitySet Name="Requisites" EntityType="dbFinanceAppModel.Requisites" />
+    <EntitySet Name="SignIn" EntityType="dbFinanceAppModel.SignIn" />
+    <EntitySet Name="Student" EntityType="dbFinanceAppModel.Student" />
+    <EntitySet Name="sysdiagrams" EntityType="dbFinanceAppModel.sysdiagrams" />
+    <EntitySet Name="Transaction" EntityType="dbFinanceAppModel.Transaction" />
+    <EntitySet Name="Type" EntityType="dbFinanceAppModel.Type" />
+    <AssociationSet Name="FK_Group_Departments" Association="dbFinanceAppModel.FK_Group_Departments">
+      <End Role="Departments" EntitySet="Departments" />
+      <End Role="Group" EntitySet="Group" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SignIn_Employe" Association="dbFinanceAppModel.FK_SignIn_Employe">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="SignIn" EntitySet="SignIn" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Group" Association="dbFinanceAppModel.FK_Student_Group">
+      <End Role="Group" EntitySet="Group" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Requisites" Association="dbFinanceAppModel.FK_Student_Requisites">
+      <End Role="Requisites" EntitySet="Requisites" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Type" Association="dbFinanceAppModel.FK_Student_Type">
+      <End Role="Type" EntitySet="Type" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaction_Student" Association="dbFinanceAppModel.FK_Transaction_Student">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="Transaction" EntitySet="Transaction" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Departments">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Group" Relationship="dbFinanceAppModel.FK_Group_Departments" FromRole="Departments" ToRole="Group" />
+  </EntityType>
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" Nullable="false" MaxLength="13" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="SignIn" Relationship="dbFinanceAppModel.FK_SignIn_Employe" FromRole="Employe" ToRole="SignIn" />
+  </EntityType>
+  <EntityType Name="Group">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IDDepartments" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Departments" Relationship="dbFinanceAppModel.FK_Group_Departments" FromRole="Group" ToRole="Departments" />
+    <NavigationProperty Name="Student" Relationship="dbFinanceAppModel.FK_Student_Group" FromRole="Group" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Requisites">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TitleBank" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CardNumber" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ActiveDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Student" Relationship="dbFinanceAppModel.FK_Student_Requisites" FromRole="Requisites" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="SignIn">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IDEmploye" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Employe" Relationship="dbFinanceAppModel.FK_SignIn_Employe" FromRole="SignIn" ToRole="Employe" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Patronymic" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IDGroup" Type="Int32" Nullable="false" />
+    <Property Name="Phone" Type="String" Nullable="false" MaxLength="13" FixedLength="true" Unicode="true" />
+    <Property Name="IDRequisites" Type="Int32" Nullable="false" />
+    <Property Name="IDType" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Group" Relationship="dbFinanceAppModel.FK_Student_Group" FromRole="Student" ToRole="Group" />
+    <NavigationProperty Name="Requisites" Relationship="dbFinanceAppModel.FK_Student_Requisites" FromRole="Student" ToRole="Requisites" />
+    <NavigationProperty Name="Type" Relationship="dbFinanceAppModel.FK_Student_Type" FromRole="Student" ToRole="Type" />
+    <NavigationProperty Name="Transaction" Relationship="dbFinanceAppModel.FK_Transaction_Student" FromRole="Student" ToRole="Transaction" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Transaction">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateTransaction" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IDStudent" Type="Int32" Nullable="false" />
+    <Property Name="Scholarship" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <NavigationProperty Name="Student" Relationship="dbFinanceAppModel.FK_Transaction_Student" FromRole="Transaction" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Type">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Scholarship" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <NavigationProperty Name="Student" Relationship="dbFinanceAppModel.FK_Student_Type" FromRole="Type" ToRole="Student" />
+  </EntityType>
+  <Association Name="FK_Group_Departments">
+    <End Type="dbFinanceAppModel.Departments" Role="Departments" Multiplicity="1" />
+    <End Type="dbFinanceAppModel.Group" Role="Group" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departments">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Group">
+        <PropertyRef Name="IDDepartments" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SignIn_Employe">
+    <End Type="dbFinanceAppModel.Employe" Role="Employe" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="dbFinanceAppModel.SignIn" Role="SignIn" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SignIn">
+        <PropertyRef Name="IDEmploye" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Group">
+    <End Type="dbFinanceAppModel.Group" Role="Group" Multiplicity="1" />
+    <End Type="dbFinanceAppModel.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Group">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="IDGroup" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Requisites">
+    <End Type="dbFinanceAppModel.Requisites" Role="Requisites" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="dbFinanceAppModel.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Requisites">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="IDRequisites" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Type">
+    <End Type="dbFinanceAppModel.Type" Role="Type" Multiplicity="1" />
+    <End Type="dbFinanceAppModel.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Type">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="IDType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaction_Student">
+    <End Type="dbFinanceAppModel.Student" Role="Student" Multiplicity="1" />
+    <End Type="dbFinanceAppModel.Transaction" Role="Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Transaction">
+        <PropertyRef Name="IDStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

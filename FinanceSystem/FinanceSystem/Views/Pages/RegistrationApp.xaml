@@ -1,0 +1,37 @@
+﻿<Page x:Class="FinanceSystem.Views.Pages.RegistrationApp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FinanceSystem.Views.Pages"
+      mc:Ignorable="d" FontSize="15"
+      d:DesignHeight="600" d:DesignWidth="1080"
+      Title="Регистрация">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock Text="Фамилия: "/>
+            <TextBox Width="350"
+                     Name="LastNameTextBox"/>
+            <TextBlock Text="Имя: "/>
+            <TextBox Width="350"
+                     Name="FirstNameTextBox"/>
+            <TextBlock Text="Отчество: "/>
+            <TextBox Width="350"
+                     Name="PatronymicTextBox"/>
+            <TextBlock Text="Почта: "/>
+            <TextBox Width="350"
+                     Name="EmailTextBox"/>
+            <TextBlock Text="Телефон: "/>
+            <TextBox Width="350"
+                     Name="PhoneTextBox"/>
+            <Button Style="{StaticResource ButtonFunction}"
+                    Width="350"
+                    Margin="0,10"
+                    Content="Регистрация"
+                    Name="ButtonSignUp"
+                    Click="ButtonSignUp_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
