@@ -35,7 +35,7 @@ namespace hpapp.Views.Pages
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            if(Employee.ID != 0)
+            if(Employee.ID == 0)
             {
                 AppData.db.Employee.Add(Employee);
             }

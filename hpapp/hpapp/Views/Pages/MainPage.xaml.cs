@@ -89,12 +89,12 @@ namespace hpapp.Views.Pages
 
         private void btnRemoveP_Click(object sender, RoutedEventArgs e)
         {
-            var selectedItem = (Polyclinic)DataSource1.SelectedItem;
+            var selectedItem = (PolyclinicDistrict)DataSource1.SelectedItem;
             if (selectedItem != null)
             {
                 if (MessageBox.Show("Вы действительно хотите удалить данные объект?", "Объект будет удален навсегда!", MessageBoxButton.OKCancel, MessageBoxImage.Warning) == MessageBoxResult.OK)
                 {
-                    AppData.db.Polyclinic.Remove(selectedItem);
+                    AppData.db.PolyclinicDistrict.Remove(selectedItem);
                     AppData.db.SaveChanges();
                     MessageBox.Show("Данные были удалены из базы данных!", "Операция прошла успешно", MessageBoxButton.OK, MessageBoxImage.Information);
                     Page_Loaded(null, null);
@@ -120,12 +120,26 @@ namespace hpapp.Views.Pages
 
         private void btnEditC_Click(object sender, RoutedEventArgs e)
         {
-
+            var selectedItem = (Patient)dataSource2.SelectedItem;
+            if(selectedItem != null)
+            {
+                NavigationService.Navigate(new ActionPagePatient(selectedItem));
+            }
         }
 
         private void btnRemoveC_Click(object sender, RoutedEventArgs e)
         {
-
+            var selectedItem = (Patient)DataSource1.SelectedItem;
+            if (selectedItem != null)
+            {
+                if (MessageBox.Show("Вы действительно хотите удалить данные объект?", "Объект будет удален навсегда!", MessageBoxButton.OKCancel, MessageBoxImage.Warning) == MessageBoxResult.OK)
+                {
+                    AppData.db.Patient.Remove(selectedItem);
+                    AppData.db.SaveChanges();
+                    MessageBox.Show("Данные были удалены из базы данных!", "Операция прошла успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+                    Page_Loaded(null, null);
+                }
+            }
         }
 
         private void btnReconnection_Click(object sender, RoutedEventArgs e)
