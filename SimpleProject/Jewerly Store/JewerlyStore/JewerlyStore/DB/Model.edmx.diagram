@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1564eda585f4159bef15ccc8cd44bf7" Name="Diagram1">
+        <EntityTypeShape EntityType="JewelryStoreModel.Basket" Width="1.5" PointX="5.875" PointY="2.5" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Category" Width="1.5" PointX="0.75" PointY="4" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Check" Width="1.5" PointX="8.25" PointY="3.375" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Client" Width="1.5" PointX="3" PointY="8.5" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Jewelry" Width="1.5" PointX="3" PointY="3.125" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Parameters" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Regisration" Width="1.5" PointX="10.25" PointY="7.875" />
+        <EntityTypeShape EntityType="JewelryStoreModel.Role" Width="1.5" PointX="5.75" PointY="8.5" />
+        <EntityTypeShape EntityType="JewelryStoreModel.SignIn" Width="1.5" PointX="8" PointY="8.125" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Basket_Client" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Basket_Jewelry" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Jewerly_CategoryID_Category_ID" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Check_Client" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Check_Jewelry" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Jewerly_ParametersID_Parameters_ID" />
+        <AssociationConnector Association="JewelryStoreModel.FK_Regisration_SignIn" />
+        <AssociationConnector Association="JewelryStoreModel.FK_SignIn_RoleID_Role_ID" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

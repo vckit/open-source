@@ -1,0 +1,114 @@
+﻿<Page x:Class="JewerlyStore.View.Pages.FunctionsWithData.PaymentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:JewerlyStore.View.Pages.FunctionsWithData"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="450" d:DesignWidth="1080"
+      Title="Оформление покупки">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Top"
+                    HorizontalAlignment="Left">
+            <Button Name="btnBack"
+                    Content="Назад"
+                    Margin="10"
+                    Foreground="White"
+                    Background="Black"
+                    Width="150"
+                    Click="btnBack_Click"
+                    materialDesign:ButtonAssist.CornerRadius="10"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <StackPanel VerticalAlignment="Top"
+                        HorizontalAlignment="Left">
+                <TextBlock Text="Оформите заказ"
+                           FontSize="14"/>
+            </StackPanel>
+            <ComboBox Name="cmbSelectClient"
+                      Width="400"
+                      Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                      materialDesign:HintAssist.Hint="Выберите клиента"/>
+            <StackPanel Orientation="Horizontal">
+                <ComboBox Name="cmbSelectJewely"
+                          Width="280"
+                          SelectionChanged="cmbSelectJewely_SelectionChanged"
+                          Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                          materialDesign:HintAssist.Hint="Выберите изделие"/>
+                
+                <TextBlock Name="txbCount"
+                           Width="30"
+                           FontSize="15"
+                           Text="1"
+                           Margin="10,0,0,0"
+                           VerticalAlignment="Center"/>
+                <Button Content="+"
+                        Click="btnAddCount_Click"
+                        Foreground="White"
+                        Background="Black"/>
+                <Button Content="-"
+                        Foreground="White"
+                        Background="Black"
+                        Click="btnRemoveCount_Click"/>
+            </StackPanel>
+            
+            <TextBox Name="txbTotalPrice"
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                     materialDesign:HintAssist.Hint="Итоговая цена"/>
+            <Button Content="Добавить в корзину"
+                    Foreground="White"
+                    Background="Black"
+                    Margin="0,10,0,0"
+                    Name="btnOrderDone"
+                    Click="btnOrderDone_Click"
+                    materialDesign:ButtonAssist.CornerRadius="15" />
+            
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="8*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <DataGrid Margin="0,10,0,0"
+                      Grid.Row="0"
+                      AutoGenerateColumns="False"
+                      Name="BasketList"
+                      ColumnWidth="*">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ФИО Клиента" Binding="{Binding Client.FullName}"/>
+                    <DataGridTextColumn Header="Бижютерий" Binding="{Binding Jewelry.JewName}"/>
+                    <DataGridTextColumn Header="Количество" Binding="{Binding Count}"/>
+                    <DataGridTextColumn Header="Цена" Binding="{Binding TotalPrice}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Grid.Row="1"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+                <Button Content="Оформить"
+                        Foreground="White"
+                        Background="Black"
+                        Margin="0,5,0,0"
+                        Name="btnGetBasket"
+                        Width="250"
+                        Click="btnGetBasket_Click"
+                        materialDesign:ButtonAssist.CornerRadius="15" />
+                <Button Content="Удалить"
+                        Foreground="White"
+                        Background="Black"
+                        Margin="10,5,0,0"
+                        Name="btnRemove"
+                        Width="250"
+                        Click="btnRemove_Click"
+                        materialDesign:ButtonAssist.CornerRadius="15" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,651 @@
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+D:\Preparation\C-applications\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+C:\Users\thevc\Downloads\Telegram Desktop\Зарина\Зарина\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+A:\github\repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+C:\Users\Administrator\Documents\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+C:\Users\PC\Documents\Programming\GitHub\MyRepositories\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+A:\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.baml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.dll
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.xml
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.g.cs
+E:\general files\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.xml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\BasketPage.g.cs
+E:\general files\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\BasketPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\BasketPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.xml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\BasketPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+A:\my-repository\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.xml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+C:\Users\thevckit\Downloads\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csprojAssemblyReference.cache
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.AssemblyReference.cache
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_Content.g.cs
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.cache
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore_MarkupCompile.lref
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe.config
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.exe
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\JewerlyStore.pdb
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Buffers.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Json.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignColors.pdb
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Memory.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Numerics.Vectors.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Text.Encodings.Web.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\System.ValueTuple.xml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.resources.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe.config
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\App.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\AutorizationPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\AddPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\CheckoutPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\EditPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\GetCheckPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\HistoryPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\FunctionsWithData\PaymentPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MainViewPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\MenuPage.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\PlaceHolder\OrderDone.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Pages\RegistrationPageView.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\About.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\ExportWindow.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\View\Windows\MainWindow.baml
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.g.resources
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.Properties.Resources.resources
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.GenerateResource.cache
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CoreCompileInputs.cache
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.csproj.CopyComplete
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.exe
+D:\download repos\Zarina\Zarina\Jewerly Store\JewerlyStore\JewerlyStore\obj\Debug\JewerlyStore.pdb
