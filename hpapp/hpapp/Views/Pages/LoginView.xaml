@@ -1,0 +1,49 @@
+﻿<Page x:Class="hpapp.Views.Pages.LoginView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:hpapp.Views.Pages"
+      mc:Ignorable="d" FontSize="16"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Авторизация">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Margin="10,0">
+                    <TextBlock Text="Имя пользователя: "
+                               Margin="0,5"/>
+                    <TextBlock Text="Пароль: "/>
+                </StackPanel>
+                <StackPanel>
+                    <TextBox Name="txbUsername" Width="250"
+                             Margin="0,5"/>
+                    <PasswordBox Name="psbPassword" Width="250"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Margin="0,10">
+                <Button Name="btnCancel"
+                        Content="Отмена"
+                        Width="125"
+                        Click="btnCancel_Click"
+                        Height="35"/>
+                <Button Name="btnLogin"
+                        Content="Войти"
+                        Width="125"
+                        Click="btnLogin_Click"
+                        IsDefault="True"
+                        Height="35"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Right">
+                <Button Width="250"
+                        Content="Регистрация"
+                        Name="btnSignUp"
+                        Click="btnSignUp_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

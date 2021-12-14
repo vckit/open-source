@@ -1,0 +1,191 @@
+﻿<Page x:Class="hpapp.Views.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:hpapp.Views.Pages"
+      mc:Ignorable="d" 
+      FontSize="15"
+      Loaded="Page_Loaded" d:DesignWidth="800"
+      Title="Главное окно">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel VerticalAlignment="Center"
+                        HorizontalAlignment="Left"
+                        Margin="10,0,0,0"
+                        Orientation="Horizontal">
+                <TextBlock FontSize="20" Text="Вы авторизовались как: "/>
+                <TextBlock Name="txbFullName" FontSize="20" FontWeight="Bold"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Margin="10">
+                <Button Content="Обновить соединение с БД"
+                        Width="220"
+                        FontFamily="Consolas"
+                        Height="30"
+                        Name="btnReconnection"
+                        Click="btnReconnection_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <ScrollViewer Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <GroupBox Header="Ведомость состава медперсонала">
+                        <StackPanel>
+                            <StackPanel HorizontalAlignment="Center">
+                                <TextBlock Margin="10" FontSize="30" Text="Состав медицинского персонала"/>
+                            </StackPanel>
+                            <StackPanel Margin="10,0,0,0"
+                                    Orientation="Horizontal">
+                                <TextBlock Text="Поиск: "/>
+                                <TextBox Name="txbSearch"
+                                     Width="300"
+                                     TextChanged="txbSearch_TextChanged"/>
+                            </StackPanel>
+                            <DataGrid Margin="10"
+                                  AutoGenerateColumns="False"
+                                  Name="DataSource"
+                                  ColumnWidth="*">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Номер поликлиники" Binding="{Binding Polyclinic.NumberPolyclinic}"/>
+                                    <DataGridTextColumn Header="ФИО Глав. Врача" Binding="{Binding GetFullName}"/>
+                                    <DataGridTextColumn Header="КСсСО" Binding="{Binding Polyclinic.NSWHE}"/>
+                                    <DataGridTextColumn Header="КСсВО" Binding="{Binding Polyclinic.NSWSSE}"/>
+                                    <DataGridTextColumn Header="КВП" Binding="{Binding Polyclinic.CountSupportStaf}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                            <StackPanel Orientation="Horizontal"
+                                    VerticalAlignment="Center"
+                                    HorizontalAlignment="Center">
+                                <Button Name="btnAdd"
+                                    Width="200"
+                                    Content="Добавить"
+                                    Click="btnAdd_Click"/>
+                                <Button Name="btnEdit"
+                                    Content="Редактировать"
+                                    Width="200"
+                                    Margin="10,0"
+                                    Click="btnEdit_Click"/>
+                                <Button Name="btnRemove"
+                                    Width="200"
+                                    Content="Удалить"
+                                    Click="btnRemove_Click"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <GroupBox Header="Ведомость состояния здравоохранения">
+                        <StackPanel>
+                            <StackPanel HorizontalAlignment="Center"
+                                    VerticalAlignment="Center"
+                                    Margin="10">
+                                <TextBlock Text="Состояния здравоохранения" FontSize="30"/>
+                            </StackPanel>
+                            <DataGrid Name="DataSource1"
+                                  AutoGenerateColumns="False"
+                                  ColumnWidth="*">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Район" Binding="{Binding District.TItle}"/>
+                                    <DataGridTextColumn Header="Численность населения" Binding="{Binding District.Count}"/>
+                                    <DataGridTextColumn Header="Количество поликлиник" Binding="{Binding District.GetCount}"/>
+                                    <DataGridTextColumn Header="Количество специалистов" Binding="{Binding Polyclinic.CountSpec}"/>
+                                    <DataGridTextColumn Header="Количество вспом. персонала" Binding="{Binding District.GetCountStaf}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                            <StackPanel HorizontalAlignment="Left"
+                                    Margin="10"
+                                    Orientation="Horizontal">
+                                <TextBlock Text="Поиск: "/>
+                                <TextBox Name="txbSearchPolyclinic"
+                                     Width="300"
+                                     TextChanged="txbSearchPolyclinic_TextChanged"/>
+                            </StackPanel>
+                            <StackPanel HorizontalAlignment="Center"
+                                    Orientation="Horizontal"
+                                    Margin="10"
+                                    VerticalAlignment="Center">
+                                <Button Name="btnAddP"
+                                    Width="200"
+                                    Content="Добавить"
+                                    Click="btnAddP_Click"/>
+                                <Button Name="btnEditP"
+                                        Width="200"
+                                        Margin="10,0"
+                                        Content="Редактировать"
+                                        Click="btnEditP_Click"/>
+                                <Button Name="btnRemoveP"
+                                        Width="200"
+                                        Content="Удалить"
+                                        Click="btnRemoveP_Click"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <GroupBox Header="Ведомость по видам заболеваний">
+                        <StackPanel>
+                            <StackPanel HorizontalAlignment="Center"
+                                    VerticalAlignment="Center"
+                                    Margin="10">
+                                <TextBlock Text="Виды заболеваний" FontSize="30"/>
+                            </StackPanel>
+                            <StackPanel HorizontalAlignment="Left"
+                                    Margin="10"
+                                    Orientation="Horizontal">
+                                <TextBlock Text="Поиск: "/>
+                                <TextBox Name="txbSearchCollection"
+                                     Width="300"
+                                     TextChanged="txbSearchCollection_TextChanged"/>
+                            </StackPanel>
+
+                            <DataGrid Name="dataSource2"
+                                       AutoGenerateColumns="False"
+                                  ColumnWidth="*">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Название заболевания" Binding="{Binding TitleDisease}"/>
+                                    <DataGridTextColumn Header="Район" Binding="{Binding District.TItle}"/>
+                                    <DataGridTextColumn Header="Количество больных" Binding="{Binding Count}"/>
+                                    <DataGridTextColumn Header="Общая численность" Binding="{Binding District.Count}"/>
+                                    <DataGridTextColumn Header="Процент" Binding="{Binding Procent}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                            <StackPanel HorizontalAlignment="Center"
+                                    Orientation="Horizontal"
+                                    Margin="10"
+                                    VerticalAlignment="Center">
+                                <Button Name="btnAddC"
+                                    Width="200"
+                                    Content="Добавить"
+                                    Click="btnAddC_Click"/>
+                                <Button Name="btnEditC"
+                                    Width="200"
+                                    Margin="10,0"
+                                    Content="Редактировать"
+                                    Click="btnEditC_Click"/>
+                                <Button Name="btnRemoveC"
+                                    Width="200"
+                                    Content="Удалить"
+                                    Click="btnRemoveC_Click"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>
